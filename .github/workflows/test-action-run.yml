@@ -2,7 +2,7 @@ name: Test running setup-licensed
 
 on:
   pull_request:
-    types:
+    types: 
       - opened
       - reopened
       - synchronize
